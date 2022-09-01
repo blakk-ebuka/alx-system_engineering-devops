@@ -1,5 +1,2 @@
-
-mv school.mgc school
-file -C -m school
-chmod u+x school.mgc
-
+0 string SCHOOL School data
+!:mime School
