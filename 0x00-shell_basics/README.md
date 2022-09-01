@@ -1,1 +1,1 @@
-Task 15 - Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+Task 16 - create a script that deletes all filea in the current working directory that end with the character ~.
