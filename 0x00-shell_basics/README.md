@@ -1,1 +1,1 @@
-Task 16 - create a script that deletes all filea in the current working directory that end with the character ~.
+Task 17 - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
