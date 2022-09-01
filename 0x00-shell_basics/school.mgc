@@ -1,0 +1,5 @@
+
+mv school.mgc school
+file -C -m school
+chmod u+x school.mgc
+
