@@ -1,1 +1,1 @@
-Task 7 - move the file betty from /tmp/ to /tmp/my_first_directory
+Task 8 - delete the file betty. The file betty is in /tmp/my_first_directory
