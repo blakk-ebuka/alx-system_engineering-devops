@@ -1,1 +1,1 @@
-Task 8 - delete the file betty. The file betty is in /tmp/my_first_directory
+Task 9 - delete the directory my_first_directory that is in the /tmp directory.
