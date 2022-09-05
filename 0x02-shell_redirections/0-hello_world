@@ -1,9 +1,2 @@
 #!/bin/bash
-echo "#!/bin/bash" > $@
-chmod u+x $@
-vim $@
-
-
-
-
 Hello, World
